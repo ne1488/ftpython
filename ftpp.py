@@ -2,7 +2,6 @@ import telebot
 from ftplib import FTP
 import os.path
 import time
-from telebot import types
 
 bot = telebot.TeleBot("1187555043:AAGxpyNUhS8219-vNlRUE5Ltcdk2Nbd7FYA")
 
